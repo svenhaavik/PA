@@ -36,3 +36,14 @@ Lükka muudatused koos kirjeldusega kaugreposse
 * Vali failid, mille sisu on vaja commitida
 * Määra vastav kirjeldus
 * Commiti ära -> Commit and Push
+
+# Päeva teemad
+## Väljund
+`print "tekst mida soovid väljastada"`
+
+või
+
+`echo "text mida soovid väljastada"`
+
+
+
