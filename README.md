@@ -1,7 +1,7 @@
 # Programmeerimise Alused
 Antud kursuse raames omandatakse  baasteadmised programmeerimisest PHP keele alusel.
 ## Ajakava
-###19.09.2019
+### 19.09.2019
 * Tarkvara installeerimine
     * [PhpStorm](https://www.jetbrains.com/phpstorm/download/#section=windows)
     * [Git](https://git-scm.com/downloads)
@@ -10,7 +10,7 @@ Antud kursuse raames omandatakse  baasteadmised programmeerimisest PHP keele alu
     * [Github.com](https://github.com) konto ning repo loomine
     * Version Control Settings (git, github)
     * PhpStormi githubi repo kloneerimine arvutisse
-###23.09.2019
+### 23.09.2019
 * Git kasutamine käsurealt
 
 Lokaalse git repo initsialiseerimine
