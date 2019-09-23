@@ -29,3 +29,10 @@ Lükka muudatused koos kirjeldusega kaugreposse
 
 `git push -uf origin master`
 
+* Git kasutamine PhpStorm keskkonnas
+
+`VCS -> Commit(Ctrl + K)`
+
+* Vali failid, mille sisu on vaja commitida
+* Määra vastav kirjeldus
+* Commiti ära -> Commit and Push
